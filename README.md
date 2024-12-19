@@ -47,6 +47,10 @@ see also: [https://uv.astral.sh](https://uv.astral.sh)
 2. Run the main script:
 
 ```bash
+uv run main.py
+```
+
+```bash
 python main.py
 ```
 
