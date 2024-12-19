@@ -4,7 +4,7 @@ A Python-based tool for processing ranked choice voting results, supporting mult
 
 ## Project Structure
 
-```
+```text
 .
 ├── main.py                 # Main entry point
 ├── vote_result_cal.py      # Vote calculation logic
@@ -33,13 +33,23 @@ This project uses Python. The specific version requirement is defined in `.pytho
 
 Dependencies are managed through `pyproject.toml`.
 
+use 'uv sync' to update dependencies
+install uv
+for macOS and linux: Use curl to download the script and execute it with sh:
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
+
+see also: [https://uv.astral.sh](https://uv.astral.sh)
+
 ## Usage
 
 1. Place raw voting data in the `data/raw/` directory
+
 2. Run the main script:
-   ```bash
-   python main.py
-   ```
+
+```bash
+python main.py
+```
+
 3. Find processed results in:
    - `data/processed/` for intermediate files
    - `data/final_results.md` for final results
@@ -53,6 +63,12 @@ Dependencies are managed through `pyproject.toml`.
   3. Vote calculation
   4. Results generation
 
-## Data Privacy
+## Data Output
 
-The system automatically removes email addresses during processing to protect voter privacy. Processed files are stored separately from raw data.
+The system processes voting data in multiple stages:
+
+1. Raw data: Stored in `data/raw/` (not included in the repository for privacy)
+2. Processed data: Email addresses removed, stored in `data/processed/`
+3. Final results: Compiled and stored in `data/final_results.md`
+
+This multi-stage approach ensures voter privacy while maintaining data integrity throughout the processing pipeline.
