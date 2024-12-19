@@ -1,4 +1,4 @@
-/data/raw/*
+
 # Python
 __pycache__/
 *.py[cod]
@@ -35,5 +35,5 @@ ENV/
 .DS_Store
 
 # Project specific
-data/processed/
 *.log
+/data/raw/*

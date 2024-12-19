@@ -9,7 +9,7 @@ df_Y9_12["Timestamp"] = df_Y9_12["Timestamp"].str.split("@").str[0]
 
 # write to new csv withourt the email addresses
 df_Y6_8.to_csv("./data/processed/BI_results_no_emails_Y6-8.csv", index=False)
-df_Y9_12.to_csv("./data/processed/BI_results    _no_emails_Y9-12.csv", index=False)
+df_Y9_12.to_csv("./data/processed/BI_results_no_emails_Y9-12.csv", index=False)
 
 # subset voting categories
 df_artwork_Y6_8 = df_Y6_8[["Timestamp"] + [col for col in df_Y6_8.columns if "Artwork" in col]]

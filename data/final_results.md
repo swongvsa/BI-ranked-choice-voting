@@ -1,115 +1,136 @@
-# Ranked Choice Voting Results
+# Y6-8 Ranked
 
-## Year 6-8 Results
+## Results
 
-### Winners
 - Artwork: Artwork [LA4]
 - Poetry: Poetry [LP2]
 - Short Story: Short Story [LS7]
 
-### Category Details
+## Vote Breakdown
 
-#### Artwork Voting Results
-- Artwork [LA4]: 173 votes
-- Artwork [LA8]: 115 votes
-- Artwork [LA1]: 75 votes
-- Artwork [LA6]: 64 votes
-- Artwork [LA7]: 55 votes
-- Artwork [LA3]: 53 votes
-- Artwork [LA2]: 31 votes
-- Artwork [LA5]: 13 votes
+### Artwork
 
-#### Poetry Voting Results
-- Poetry [LP2]: 189 votes
-- Poetry [LP1]: 171 votes
-- Poetry [LP3]: 154 votes
+#### Round 1
 
-#### Short Story Voting Results
-- Short Story [LS7]: 129 votes
-- Short Story [LS8]: 64 votes
-- Short Story [LS3]: 63 votes
-- Short Story [LS9]: 59 votes
-- Short Story [LS2]: 58 votes
-- Short Story [LS4]: 57 votes
-- Short Story [LS5]: 56 votes
-- Short Story [LS1]: 43 votes
-- Short Story [LS6]: 27 votes
+- Artwork [LA1]: 75
+- Artwork [LA2]: 31
+- Artwork [LA3]: 53
+- Artwork [LA4]: 173
+- Artwork [LA5]: 13
+- Artwork [LA6]: 64
+- Artwork [LA7]: 55
+- Artwork [LA8]: 115
 
-## Year 9-12 Results
+### Poetry
 
-### Winners
+#### Round 1
+
+- Poetry [LP1]: 171
+- Poetry [LP2]: 189
+- Poetry [LP3]: 154
+
+### Short Story
+
+#### Round 1
+
+- Short Story [LS1]: 43
+- Short Story [LS2]: 58
+- Short Story [LS3]: 63
+- Short Story [LS4]: 57
+- Short Story [LS5]: 56
+- Short Story [LS6]: 27
+- Short Story [LS7]: 129
+- Short Story [LS8]: 64
+- Short Story [LS9]: 59
+
+
+# Y9-12 Ranked
+
+## Results
+
 - Artwork: Artwork [HA17]
 - Poetry: Poetry [HP2]
 - Short Story: Short Story [HS2]
 
-### Category Details
+## Vote Breakdown
 
-#### Artwork Voting Results
-- Artwork [HA17]: 50 votes
-- Artwork [HA10]: 41 votes
-- Artwork [HA20]: 39 votes
-- Artwork [HA13]: 35 votes
-- Artwork [HA16]: 24 votes
-- Artwork [HA18]: 24 votes
-- Artwork [HA21]: 24 votes
-- Artwork [HA28]: 24 votes
-- Artwork [HA7]: 21 votes
-- Artwork [HA22]: 20 votes
-- Artwork [HA8]: 19 votes
-- Artwork [HA5]: 18 votes
-- Artwork [HA19]: 18 votes
-- Artwork [HA23]: 17 votes
-- Artwork [HA2]: 16 votes
-- Artwork [HA12]: 15 votes
-- Artwork [HA15]: 15 votes
-- Artwork [HA11]: 14 votes
-- Artwork [HA25]: 13 votes
-- Artwork [HA1]: 11 votes
-- Artwork [HA3]: 11 votes
-- Artwork [HA4]: 11 votes
-- Artwork [HA9]: 8 votes
-- Artwork [HA6]: 7 votes
-- Artwork [HA14]: 6 votes
-- Artwork [HA24]: 6 votes
-- Artwork [HA29]: 5 votes
-- Artwork [HA26]: 4 votes
-- Artwork [HA27]: 4 votes
+### Artwork
 
-#### Poetry Voting Results
-- Poetry [HP2]: 39 votes
-- Poetry [HP5]: 37 votes
-- Poetry [HP20]: 27 votes
-- Poetry [HP22]: 27 votes
-- Poetry [HP12]: 26 votes
-- Poetry [HP15]: 26 votes
-- Poetry [HP10]: 25 votes
-- Poetry [HP3]: 24 votes
-- Poetry [HP8]: 23 votes
-- Poetry [HP9]: 21 votes
-- Poetry [HP19]: 21 votes
-- Poetry [HP25]: 20 votes
-- Poetry [HP6]: 19 votes
-- Poetry [HP7]: 19 votes
-- Poetry [HP11]: 19 votes
-- Poetry [HP4]: 17 votes
-- Poetry [HP16]: 15 votes
-- Poetry [HP1]: 13 votes
-- Poetry [HP24]: 13 votes
-- Poetry [HP17]: 11 votes
-- Poetry [HP21]: 11 votes
-- Poetry [HP18]: 10 votes
-- Poetry [HP14]: 8 votes
-- Poetry [HP23]: 8 votes
-- Poetry [HP13]: 7 votes
-- Poetry [HP27]: 4 votes
-- Poetry [HP26]: 2 votes
+#### Round 1
 
-#### Short Story Voting Results
-- Short Story [HS2]: 108 votes
-- Short Story [HS3]: 79 votes
-- Short Story [HS6]: 70 votes
-- Short Story [HS5]: 60 votes
-- Short Story [HS8]: 56 votes
-- Short Story [HS4]: 50 votes
-- Short Story [HS7]: 39 votes
-- Short Story [HS1]: 34 votes
+- Artwork [HA1]: 11
+- Artwork [HA2]: 16
+- Artwork [HA3]: 11
+- Artwork [HA4]: 11
+- Artwork [HA5]: 18
+- Artwork [HA6]: 7
+- Artwork [HA7]: 21
+- Artwork [HA8]: 19
+- Artwork [HA9]: 8
+- Artwork [HA10]: 41
+- Artwork [HA11]: 14
+- Artwork [HA12]: 15
+- Artwork [HA13]: 35
+- Artwork [HA14]: 6
+- Artwork [HA15]: 15
+- Artwork [HA16]: 24
+- Artwork [HA17]: 50
+- Artwork [HA18]: 24
+- Artwork [HA19]: 18
+- Artwork [HA20]: 39
+- Artwork [HA21]: 24
+- Artwork [HA22]: 20
+- Artwork [HA23]: 17
+- Artwork [HA24]: 6
+- Artwork [HA25]: 13
+- Artwork [HA26]: 4
+- Artwork [HA27]: 4
+- Artwork [HA28]: 24
+- Artwork [HA29]: 5
+
+### Poetry
+
+#### Round 1
+
+- Poetry [HP1]: 13
+- Poetry [HP2]: 39
+- Poetry [HP3]: 24
+- Poetry [HP4]: 17
+- Poetry [HP5]: 37
+- Poetry [HP6]: 19
+- Poetry [HP7]: 19
+- Poetry [HP8]: 23
+- Poetry [HP9]: 21
+- Poetry [HP10]: 25
+- Poetry [HP11]: 19
+- Poetry [HP12]: 26
+- Poetry [HP13]: 7
+- Poetry [HP14]: 8
+- Poetry [HP15]: 26
+- Poetry [HP16]: 15
+- Poetry [HP17]: 11
+- Poetry [HP18]: 10
+- Poetry [HP19]: 21
+- Poetry [HP20]: 27
+- Poetry [HP21]: 11
+- Poetry [HP22]: 27
+- Poetry [HP23]: 8
+- Poetry [HP24]: 13
+- Poetry [HP25]: 20
+- Poetry [HP26]: 2
+- Poetry [HP27]: 4
+
+### Short Story
+
+#### Round 1
+
+- Short Story [HS1]: 34
+- Short Story [HS2]: 108
+- Short Story [HS3]: 79
+- Short Story [HS4]: 50
+- Short Story [HS5]: 60
+- Short Story [HS6]: 70
+- Short Story [HS7]: 39
+- Short Story [HS8]: 56
+
+
